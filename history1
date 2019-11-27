@@ -1,0 +1,89 @@
+    1  docker --version
+    2  su
+    3  ls
+    4  ls -a
+    5  history 
+    6  docker --version
+    7  tree
+    8  apt -get
+    9  sudo install
+   10  sudo install ftp
+   11  ls
+   12  mkdir
+   13  mkdir cla
+   14  ls
+   15  t
+   16  cut
+   17  cd ls -la
+   18  la
+   19  ls
+   20  ls -la
+   21  pwd
+   22  cd \
+   23  cd ..
+   24  ls
+   25  ls -la
+   26  ls -lo
+   27  ls -loa
+   28  ls -loas
+   29  tree
+   30  ls
+   31  ls Documents/
+   32  ls Downloads/
+   33  cd  Downloads/
+   34  cd ..
+   35  ls
+   36  ls -a
+   37  cd cla/
+   38  ls
+   39  git init
+   40  ls -la
+   41  cd .git
+   42  ls
+   43  tree
+   44  cd ..
+   45  pwd
+   46  cd ..
+   47  pwd
+   48  ssh -keygen -t RSA -b 4096 -c "claudioqg@gmail.com"
+   49  ssh -keygen -t RSA -b 4096 -C "claudioqg@gmail.com"
+   50  ssh-keygen -t RSA -b 4096 -C "claudioqg@gmail.com"
+   51  cd .ssh
+   52  ls
+   53  ls -la
+   54  cat id_rsa.pub
+   55  cd ..
+   56  pwd
+   57  md projects
+   58  mkdir projects
+   59  cd mk
+   60  cd projects/
+   61  ls
+   62  ls -la
+   63  mkdir java-console-app
+   64  ls -la
+   65  cd java-console-app/
+   66  pwd
+   67  git init
+   68  ls -la
+   69  ls -la -s
+   70  rm -rf .git
+   71  ls -la
+   72  git init --bare
+   73  ls -la
+   74  ls
+   75  cd HEAD
+   76  la
+   77  ls
+   78  rm -rf *
+   79  ls
+   80  ls -la
+   81  git init
+   82  ls -la
+   83  ls -la -git
+   84  ls  .git
+   85  ls  .git -las
+   86  ls  .git -la
+   87  tree
+   88  ls  .git -la
+   89  history >> history1
